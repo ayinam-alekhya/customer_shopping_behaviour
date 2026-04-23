@@ -6,14 +6,15 @@ End-to-end data analytics project analyzing customer shopping behavior using **P
 
 ## 📁 Repository Structure
 
-
-├── Customer_Shopping_Behaviour_Report.pdf
-├── Customer_beaviour_EDA.ipynb
-├── Customer_behaviour_dashboard.twbx
-├── Customer_behaviour_sql_queries.sql
-├── customer_shopping_behavior.csv
-├── README.md
-└── LICENSE
+| File | Description |
+|---|---|
+| `Customer_Shopping_Behaviour_Report.pdf` | Detailed project report |
+| `Customer_beaviour_EDA.ipynb` | Python EDA & preprocessing |
+| `Customer_behaviour_dashboard.twbx` | Tableau dashboard |
+| `Customer_behaviour_sql_queries.sql` | SQL analysis queries |
+| `customer_shopping_behavior.csv` | Dataset |
+| `README.md` | Project documentation |
+| `LICENSE` | License file |
 
 
 ---
@@ -97,7 +98,7 @@ Built an interactive dashboard with:
 
 ## 📊 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
